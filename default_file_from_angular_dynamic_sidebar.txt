@@ -1,0 +1,2 @@
+./angular-dynamic-resizeable-sidenav/src/app/app.component.ts:12:import { DefaultSidenavComponent } from './sidenavs/default-sidenav/default-sidenav.component';
+./angular-dynamic-resizeable-sidenav/src/app/app.module.ts:16:import { DefaultSidenavComponent } from './sidenavs/default-sidenav/default-sidenav.component';
